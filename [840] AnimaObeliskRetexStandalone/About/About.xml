@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<ModMetaData>
+	<name>Anima Obelisk - Retextured Standalone</name>
+	<author>XxHyde840xX/DimonSever000/MrKociak</author>
+	<description>Safekeep some juice for when you really need it! The Anima Obelisk allows any psycaster to meditate upon it, slowly accumulating psyfocus that can later be withdrawn by any other psycaster.
+	Retextured with MrKociak's fine work and made standalone by XxHyde840xX. Original mods located at: https://steamcommunity.com/sharedfiles/filedetails/?id=2614248835 / https://steamcommunity.com/sharedfiles/filedetails/?id=2825920536.</description>
+	<packageId>840.AnimaObelisk.RTXS</packageId>
+	<supportedVersions>
+		<li>1.4</li>
+	</supportedVersions>
+</ModMetaData> 
